@@ -1,6 +1,6 @@
 ### Hi Im Andres Restrepo 
-⚡ Fun fact: 
-📫 How to reach me: andresjr195@hotmail.com
+⚡ Fun fact:...
+📫 How to reach me: andresjr195@hotmail.com ...
 <!--
 **zakyprogramador/zakyprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -  ...
 -->
 ![1_HubVHOjxeedL-tl3ndPHFA](https://user-images.githubusercontent.com/98345385/165127616-e1180876-96ab-4813-ae8b-cdc73558803d.gif)
-<a href="https://twitter.com/oussth3boss/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
- </a>
+
