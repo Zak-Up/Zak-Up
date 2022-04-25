@@ -1,5 +1,5 @@
 ### Hi Im Andres Restrepo ✨
-<a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/98345385/165127616-e1180876-96ab-4813-ae8b-cdc73558803d.gif" align="right" height="260" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/98345385/165127616-e1180876-96ab-4813-ae8b-cdc73558803d.gif" align="right" height="200" /></a>
 
 <!--
 **zakyprogramador/zakyprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
