@@ -18,7 +18,9 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Contact Me
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/andres-restrepo-salas-a903b639/https://www.linkedin.com/in/andres-restrepo-salas-a903b639/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/andres-restrepo-salas-a903b639/https://www.linkedin.com/in/andres-restrepo-salas-a903b639/)
+
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573133990387&text=Hola!)](https://api.whatsapp.com/send?phone=573133990387&text=Hola!)
 
 <!-- #### Others
