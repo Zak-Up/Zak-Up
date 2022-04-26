@@ -1,7 +1,7 @@
-### Hey! Im Andres Restrepo ⚡🤖
+### Hey! Im Andres Restrepo ⚡
 <a href="https://samujjwaal.tech/"><img src="https://user-images.githubusercontent.com/98345385/165127616-e1180876-96ab-4813-ae8b-cdc73558803d.gif" align="right" height="200" /></a>
 
-### I am a musician who fell in love with web development 👨‍💻, my knowledge has been self-taught, reading books bootcamps and forums on the internet 🌐, working on projects as a freelancer 💻, now I am looking for an opportunity to work in a team, and develop myself in this beautiful field.
+### I am a musician who fell in love with web development 💻, my knowledge has been self-taught, reading books bootcamps and forums on the internet 🌐, working on projects as a freelancer, now I am looking for an opportunity to work in a team, and develop myself in this beautiful field.
 
 - 💼 My portfolio https://andres-restrepo-portfolio.netlify.app/#home...
 <!-- - 🌱 I’m currently learning Frontend Developer ...
