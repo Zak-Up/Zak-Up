@@ -26,4 +26,4 @@
 
 
 ---
-⭐️ From [Zak Up](https://https://github.com/Zak-Up)
+⭐️ From [Zak Up](https://https://github.com/Zak-Up/)
