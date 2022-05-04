@@ -15,8 +15,8 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/zakyprogramador/)](https://github.com/zakyprogramador/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/zakyprogramador/)](https://github.com/zakyprogramador)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://https://github.com/Zak-Up)](https://https://github.com/Zak-Up)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://https://github.com/Zak-Up)](https://https://github.com/Zak-Up)
 
 #### Contact Me
 
@@ -26,4 +26,4 @@
 
 
 ---
-⭐️ From [Zak Up](https://github.com/zakyprogramador)
+⭐️ From [Zak Up](https://https://github.com/Zak-Up)
